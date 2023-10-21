@@ -1,4 +1,4 @@
-<header><img src="https://media.discordapp.net/attachments/1132366097388142593/1165308812987744287/1675929394228.png?ex=65466167&is=6533ec67&hm=f6d888d7169ba7aceeccaee58a228e99bc11badd8b0ce92ef3d8f9fdbdfc1076&=" height="500" width="1005" ></header>
+<header><img src="https://media.discordapp.net/attachments/1132366097388142593/1165308812987744287/1675929394228.png?ex=65466167&is=6533ec67&hm=f6d888d7169ba7aceeccaee58a228e99bc11badd8b0ce92ef3d8f9fdbdfc1076&=" height="100%" width="100%" ></header>
 <h1 align="center">Hans Patrick I. Pendon</h1>
 
 <p align="center">
