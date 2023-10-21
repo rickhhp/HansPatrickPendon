@@ -31,7 +31,7 @@
                    Datacamp <br>
                    September 02, 2023 </center></p>
 <p align ="center">
-<a href="https://courses.cognitiveclass.ai/certificates/cc986a107d5a4ebbb18a7235d65735de"><br>Introduction to ChatGPT</a> <br>
+<a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/1719530e35dd6bce0c4d5dd6132fc11500c10328"><br>Introduction to ChatGPT</a> <br>
                    Datacamp <br>
                    September 02, 2023 </center></p>
 
