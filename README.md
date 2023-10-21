@@ -23,7 +23,7 @@
 2019 - Present <br><br></p>
 
 <h1 align="center">Certifications</h1>
-<p align ="center"><a href="https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiI2NjQiLCJjZXJ0aWZpY2F0ZV91cmwiOiJodHRwczpcL1wvY2VydGlmaWNhdGVzLnNpbXBsaWNkbi5uZXRcL3NoYXJlXC90aHVtYl80NDk4MzU4XzE2OTQwNzE0NzIucG5nIiwidXNlcm5hbWUiOiJOb3JpZWwgUi4gQWNoZXJvIn0%3D&utm_source=shared-certificate&utm_medium=lms&utm_campaign=shared-certificate-promotion&referrer=https%3A%2F%2Flms.simplilearn.com%2Fcourses%2F2738%2FBusiness-Analytics-with-Excel%2Fcertificate%2Fdownload-skillup&%24web_only=true&_branch_match_id=1228126272761800539&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL87MLcjJ1EssKNDLyczL1k%2FVz3YyMsxyNkoJdU4CAHL%2BFYAlAAAA" ><br>Business Analytics with Excel</a> <br>
+<p align ="center"><a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/062bee16af9dc7e63054d6c0a85d39109931e09e"><br>Business Analytics with Excel</a> <br>
                    Datacamp <br>
                    September 03, 2023  </center></p>
 <p align ="center">
