@@ -1,9 +1,6 @@
 <h1 align="center">Hans Patrick I. Pendon</h1>
 
-
-
-
-<h3 align="center">4th-year Information Technology Student at New Era University, Quezon City, Philippines</h3>
+<h3 align="center"> A 4th Year Information Technology Student at New Era University, Quezon City, Philippines</h3>
 
 
 <h1 align="center">Languages and Tools</h1>
