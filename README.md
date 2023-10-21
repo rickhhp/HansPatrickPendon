@@ -1,4 +1,4 @@
-<header><img src="http://url/image.png" height="500" width="1005" ></header>
+<header><img src="https://www.linkedin.com/in/hans-patrick-pendon-170784265/overlay/background-image/" height="500" width="1005" ></header>
 <h1 align="center">Hans Patrick I. Pendon</h1>
 
 <p align="center">
