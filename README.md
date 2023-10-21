@@ -1,7 +1,7 @@
 <h1 align="center">Hans Patrick I. Pendon</h1>
 
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk.gif" width="100"/>
+  <img src="https://giphy.com/embed/2IudUHdI075HL02Pkk" width="100"/>
 </div>
 
 <p align="center">
@@ -13,6 +13,9 @@
         <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
     </a>
     <a href="https://www.instagram.com/rickybabyo7/">
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+  </p>
+       <a href="https://www.instagram.com/rickybabyo7/">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
   </p>
 </p>
