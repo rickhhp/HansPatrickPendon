@@ -3,9 +3,9 @@
 <h3 align="center"> A 4th Year Information Technology Student at New Era University, Quezon City, Philippines</h3>
 
 <h1 align="center">Education</h1>
-<p align="left">STEM - ENGINEERING | Our Lady of Fatima University Lagro, Q.C. <br>
+<p align="center">STEM - ENGINEERING | Our Lady of Fatima University Lagro, Q.C. <br>
 2018 - 2019 <br></p>
-<p align="left">Bachelor of Science in Information Technology | New Era University <br>
+<p align="center">Bachelor of Science in Information Technology | New Era University <br>
 2019 - Present <br><br></p>
 
 <h1 align="center">Certifications</h1>
