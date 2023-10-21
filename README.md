@@ -13,7 +13,7 @@
                    Simplilearn Corporation <br>
                    September 07, 2023 </center></p>
 <p align ="center">
-<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=9C9E664CDAE6263E64C19578F858D27149CD9A9C4708E4CDE6EC07D24B2E287B&fbclid=IwAR35LNBhQmNWmxbKfIlm8KlbDVzr-x4yJ-7gHOF3ixLRDIVSSbIZyummgek"><br>Oracle Cloud Data Management Foundations Associate</a> <br>
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=9C9E664CDAE6263E64C19578F858D27149CD9A9C4708E4CDE6EC07D24B2E287B&fbclid=IwAR35LNBhQmNWmxbKfIlm8KlbDVzr-x4yJ-7gHOF3ixLRDIVSSbIZyummgek"><br>Oracle Cloud Data Management Foundations Associate</a><br>
                    Oracle University <br>
                    December 9, 2022 </center></p>
 <p align ="center">
