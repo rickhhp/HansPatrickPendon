@@ -10,10 +10,13 @@
     </a>
     <a href="https://www.instagram.com/rickybabyo7/">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+    </a>
+      <a href="rickypendon@outlook.com">
+        <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook">
+      </a> 
   </p>
-       <a href="https://www.instagram.com/rickybabyo7/">
-        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
   </p>
+       
 </p>
 
 <h3 align="center"> A 4th Year Information Technology Student at New Era University, Quezon City, Philippines</h3>
