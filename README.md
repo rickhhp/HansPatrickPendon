@@ -31,13 +31,10 @@
                    Datacamp <br>
                    September 02, 2023 </center></p>
 <p align ="center">
-<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=0EB79B5FF329CC2E00E4282868C8DF999A79A88FAE3250C3E77CABF51C8EBDE4&fbclid=IwAR3XS1StGkj_o3_VNGUu7QjDDqPmmgi2tFNkKzXpby2Rud4vck-bMULkapQ#"><br>Oracle Cloud Infrastructure 2022 Certified Foundations Associate</a> <br>
-                   Datacamp <br>
-                   September 02, 2023 </center></p>
-<p align ="center">
 <a href="https://courses.cognitiveclass.ai/certificates/cc986a107d5a4ebbb18a7235d65735de"><br>Introduction to ChatGPT</a> <br>
                    Datacamp <br>
-                   April 20, 2022 </center></p>
+                   September 02, 2023 </center></p>
+
 
 
 
