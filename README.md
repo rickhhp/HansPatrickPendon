@@ -27,7 +27,7 @@
                    Datacamp <br>
                    September 03, 2023  </center></p>
 <p align ="center">
-<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=9C9E664CDAE6263E64C19578F858D27149CD9A9C4708E4CDE6EC07D24B2E287B&fbclid=IwAR35LNBhQmNWmxbKfIlm8KlbDVzr-x4yJ-7gHOF3ixLRDIVSSbIZyummgek"><br>GitHub Concepts</a><br>
+<a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/7a221f8d3a0432bb7fc4cabb4a8692d1cabe72a3"><br>GitHub Concepts</a><br>
                    Datacamp <br>
                    September 02, 2023 </center></p>
 <p align ="center">
