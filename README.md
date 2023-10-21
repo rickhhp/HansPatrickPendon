@@ -35,7 +35,7 @@
                    Datacamp <br>
                    September 02, 2023 </center></p>
 <p align ="center">
-<a href="https://courses.cognitiveclass.ai/certificates/cc986a107d5a4ebbb18a7235d65735de"><br>SQL and Relational Databases 101</a> <br>
+<a href="https://courses.cognitiveclass.ai/certificates/cc986a107d5a4ebbb18a7235d65735de"><br>Introduction to ChatGPT</a> <br>
                    Datacamp <br>
                    April 20, 2022 </center></p>
 
