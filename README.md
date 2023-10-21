@@ -16,11 +16,11 @@
 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=9C9E664CDAE6263E64C19578F858D27149CD9A9C4708E4CDE6EC07D24B2E287B&fbclid=IwAR35LNBhQmNWmxbKfIlm8KlbDVzr-x4yJ-7gHOF3ixLRDIVSSbIZyummgek"><br>Oracle Cloud Data Management Foundations Associate</a> <br>
                    Oracle University <br>
                    December 9, 2022 </center></p>
-<p align ="left">
+<p align ="center">
 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=0EB79B5FF329CC2E00E4282868C8DF999A79A88FAE3250C3E77CABF51C8EBDE4&fbclid=IwAR3XS1StGkj_o3_VNGUu7QjDDqPmmgi2tFNkKzXpby2Rud4vck-bMULkapQ#"><br>Oracle Cloud Infrastructure 2022 Certified Foundations Associate</a> <br>
                    Oracle University <br>
                    November 23, 2022 </center></p>
-<p align ="left">
+<p align ="center">
 <a href="https://courses.cognitiveclass.ai/certificates/cc986a107d5a4ebbb18a7235d65735de"><br>SQL and Relational Databases 101</a> <br>
                    Cognitive Class <br>
                    November 2, 2022 </center></p>
