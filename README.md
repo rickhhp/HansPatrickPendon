@@ -1,9 +1,5 @@
 <h1 align="center">Hans Patrick I. Pendon</h1>
 
-<div id="header" align="center">
-  <img src="https://giphy.com/embed/2IudUHdI075HL02Pkk" width="100"/>
-</div>
-
 <p align="center">
   <p align="center">
     <a href="https://www.linkedin.com/in/hans-patrick-pendon-170784265/">
