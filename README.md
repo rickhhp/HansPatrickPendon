@@ -23,7 +23,7 @@
 2019 - Present <br><br></p>
 
 <h1 align="center">Certifications</h1>
-<p align ="center"><a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/062bee16af9dc7e63054d6c0a85d39109931e09e"><br>Business Analytics with Excel</a> <br>
+<p align ="center"><a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/062bee16af9dc7e63054d6c0a85d39109931e09e"><br>AI Ethics</a> <br>
                    Datacamp <br>
                    September 03, 2023  </center></p>
 <p align ="center">
