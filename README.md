@@ -13,7 +13,7 @@
 </p>
 
 
-<h3 align="center">A 3rd-year Computer Science student at New Era University, Quezon City, Philippines</h3>
+<h3 align="center">4th-year Information Technology Student at New Era University, Quezon City, Philippines</h3>
 
 
 <h1 align="center">Languages and Tools</h1>
